@@ -39,6 +39,6 @@ Image	![alt text](image.jpg)
 
 ---
 
-[메롱](https://dillinger.io/)
+[마크다운 편집기](https://dillinger.io/)
 
-![매롱 이미지]()
+![블루라이언 철학](https://github.com/goodlookingprokim/4060_Mid/blob/main/notion_wisdom.PNG)
