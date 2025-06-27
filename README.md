@@ -31,13 +31,18 @@ Image	![alt text](image.jpg)
 *이텔릭*
 > 블록인용
 
-`코드 입력`
+```sh
+코드 입력
+코드 입력
+코드 입력
+```
 
 - 표시
 
 수평줄
 
 ---
+[마트다운 가이드](https://www.markdownguide.org/cheat-sheet/)
 
 [마크다운 편집기](https://dillinger.io/)
 
