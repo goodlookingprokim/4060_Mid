@@ -18,3 +18,21 @@ Code	`code`
 Horizontal Rule	---
 Link	[title](https://www.example.com)
 Image	![alt text](image.jpg)
+
+*backtik: option+₩
+
+
+
+
+#연습합시다.
+##1단계
+###2단계
+**굵게**
+*이텔릭*
+> 블록인용
+`코드 입력`
+- 표시
+수평줄
+---
+[메롱]()
+![매롱 이미지]()
